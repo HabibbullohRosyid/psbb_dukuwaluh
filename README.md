@@ -1,5 +1,4 @@
-# psbb
-Sistem Informasi Pendaftaran Santri Baru Pondok Pesantren Darussalam Dukuwaluh Purwokerto Berbasis Web
+# Sistem Informasi Pendaftaran Santri Baru Pondok Pesantren Darussalam Dukuwaluh Purwokerto Berbasis Web
 
 **Proses Kerja Sistem**
 
